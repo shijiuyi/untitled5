@@ -26,7 +26,6 @@ def load_json(xml_path):
 
 json_1 = load_json("/home/shijiuyi/下载/2020-04-27_2020-05-03.xml")
 json_1 = json_1.encode()
-# json_1 = str(bytes, 'utf-8')
 # print(json_1)
 
 file_path = "/home/shijiuyi/桌面/test_file/json/trans.json"
